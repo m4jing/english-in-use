@@ -2,7 +2,7 @@
 
 - [house](./house.md)
 - [stairs](./stairs.md)
-- room
+- [room](./room.md)
 - floor
 - carpet
 - wall
