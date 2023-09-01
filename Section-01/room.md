@@ -1,8 +1,10 @@
 ## Verb + n.
 
-share a room
-tidy your room
-let out rooms: 出租房间
+- share a room
+- tidy your room
+- let out rooms: 出租房间
+
+### Practice
 
 1. Brian promised that he would ...... his room,but he left it in a mess as usual. (tidy)
 2. I used to ...... a room with my sister when I was young. (share)
@@ -10,15 +12,15 @@ let out rooms: 出租房间
 
 ## Common expressions
 
-a bright room
-a comfortable room
-a tidy / an untidy room
-a single / twin / double room: 单人间/双人间
-the spare room: 空房间，备用房间
-the next room
-the room is crowded
-the room is locked
-a waiting room (at the station or hospital)
+- a bright room
+- a comfortable room
+- a tidy / an untidy room
+- a single / twin / double room: 单人间/双人间
+- the spare room: 空房间，备用房间
+- the next room
+- the room is crowded
+- the room is locked
+- a waiting room (at the station or hospital)
 
 ## Note
 
