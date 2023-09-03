@@ -3,7 +3,7 @@
 - [house](./house.md)
 - [stairs](./stairs.md)
 - [room](./room.md)
-- floor
+- [floor](./floor.md)
 - carpet
 - wall
 - ceiling
