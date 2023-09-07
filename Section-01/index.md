@@ -5,8 +5,8 @@
 - [room](./room.md)
 - [floor](./floor.md)
 - [carpet](./carpet.md)
-- wall
-- ceiling
+- [wall](./wall.md)
+- [ceiling](./ceiling.md)
 - door
 - light
 - window
