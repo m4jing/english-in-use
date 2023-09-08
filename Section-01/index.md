@@ -7,7 +7,7 @@
 - [carpet](./carpet.md)
 - [wall](./wall.md)
 - [ceiling](./ceiling.md)
-- door
+- [door](./door.md)
 - light
 - window
 - heating
