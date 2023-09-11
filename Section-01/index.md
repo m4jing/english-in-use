@@ -8,6 +8,6 @@
 - [wall](./wall.md)
 - [ceiling](./ceiling.md)
 - [door](./door.md)
-- light
+- [light](./light.md)
 - window
 - heating
