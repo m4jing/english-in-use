@@ -9,5 +9,5 @@
 - [ceiling](./ceiling.md)
 - [door](./door.md)
 - [light](./light.md)
-- window
+- [window](./window.md)
 - heating
