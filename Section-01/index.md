@@ -10,4 +10,4 @@
 - [door](./door.md)
 - [light](./light.md)
 - [window](./window.md)
-- heating
+- [heating](./heating.md)
