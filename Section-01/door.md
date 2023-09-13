@@ -1,4 +1,6 @@
-# Verb + n.
+# door
+
+## Verb + (n.)
 
 - open the door
 - close/shut the door
@@ -14,7 +16,7 @@ Complete the sentences with the correct form of the above verbs:
 3. The firemen had to ...... down the front door of the flat to get in. (break)
 4. Remember to ...... the front door before you go to bed. (lock)
 
-# Common expressions
+## Common expressions
 
 hold the door open
 the door leads to the(kitchen)
@@ -34,7 +36,7 @@ There's someone at the door.
 - d. the back door.
 - e. of the bank, waiting for it to open.
 
-# Note
+## Note
 
 Note these expressions with 'door handle':
 

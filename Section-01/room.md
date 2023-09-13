@@ -1,4 +1,6 @@
-## Verb + n.
+# room
+
+## Verb + (n.)
 
 - share a room
 - tidy your room

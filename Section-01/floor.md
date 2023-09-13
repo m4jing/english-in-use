@@ -1,4 +1,6 @@
-## Verb + n.
+# floor
+
+## Verb + (n.)
 
 - mop the floor
 - sweep the floor

@@ -1,4 +1,6 @@
-# Verb + n.
+# heating
+
+## Verb + (n.)
 
 - turn the heating on/off
 - set the heating to come on at 5 and go off at 9

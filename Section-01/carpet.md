@@ -1,4 +1,6 @@
-## Verb + n.
+# carpet
+
+## Verb + (n.)
 
 - hoover the carpet: 用吸尘器清扫
 - lay a carpet: 铺设

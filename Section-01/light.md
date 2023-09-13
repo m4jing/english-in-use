@@ -1,4 +1,6 @@
-# Common expressions
+# light
+
+## Common expressions
 
 - a light bulb
 - a light switch

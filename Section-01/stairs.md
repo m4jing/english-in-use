@@ -1,4 +1,6 @@
-## Verb + n.
+# stairs
+
+## Verb + (n.)
 
 - use/take the stairs
 - climb the stairs

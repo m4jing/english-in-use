@@ -1,4 +1,6 @@
-## Verb + n.
+# window
+
+## Verb + (n.)
 
 - open/close a window
 - break a window
