@@ -1,3 +1,7 @@
+---
+description: Your rooms and furniture in them.
+---
+
 # Section 2 - Rooms and furniture
 
 - [table](./table.md)
