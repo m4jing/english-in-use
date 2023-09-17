@@ -1,10 +1,14 @@
+---
+description: Table, a piece of furniture that consists of a flat top supported by legs. (桌子，台子，茶几)
+---
+
 # table
 
 ## Verb + n. (at home)
 
 - sit at a table
 - leave the table
-- lay / set the table
+- lay / set the table = put teh plates, knives, etc. on the table for a meal: 摆餐具
 - clear the table
 
 ## Verb + n. (in a restaurant)
