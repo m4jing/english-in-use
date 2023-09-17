@@ -9,13 +9,13 @@
 
 ## Verb + n. (in a restaurant)
 
-- book a table
-- manage to get a table
+- book a table: 预订
+- manage to get a table: 好不容易订到桌位
 - be shown to your table
 
 Complete the sentences with the correct form of the above verbs:
 
-1. Roberta,would you ...... the table while I cook breakfast? The knives and forks are in the drawer next to the fridge.
+1. Roberta, would you ...... the table while I cook breakfast? The knives and forks are in the drawer next to the fridge.
 2. My father always ...... at the top of the table when we're eating.
 3. Yuan, could you ...... the table and put the dirty dishes in the sink. I'll wash them later.
 4. When I was a child, we had to ask permission before we could ...... the dinner table.
