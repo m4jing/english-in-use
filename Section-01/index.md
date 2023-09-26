@@ -1,3 +1,7 @@
+---
+description: Your house and structures of it.
+---
+
 # Section 1 - Your house
 
 - [house](./house.md)
