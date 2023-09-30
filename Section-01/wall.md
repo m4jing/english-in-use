@@ -1,3 +1,7 @@
+---
+description: Wall, any of the vertical sides of a building or room. (墙)
+---
+
 # wall
 
 ## Common expressions
