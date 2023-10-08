@@ -1,5 +1,5 @@
 ---
-description: "Things related to  a bedroom, including: sheet, blanket, pillow, mattress, wardrobe, alarm, curtains."
+description: "Things related to a bedroom, including: sheet, blanket, pillow, mattress, wardrobe, alarm, curtains."
 ---
 
 # sheet, blanket, pillow, mattress, wardrobe, alarm, curtains

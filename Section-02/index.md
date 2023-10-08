@@ -10,7 +10,6 @@ description: Your rooms and furniture in them.
 - [mirror](./mirror.md)
 - [bed](./bed.md)
 - [sheet, blanket, pillow, mattress, wardrobe, alarm, curtains](./bedroom-collection.md)
-- [bath](./bath.md)
-- [shower](./shower.md)
+- [bath, shower](./bathroom-collection.md)
 - [towel](./towel.md)
 - [toilet](./toilet.md)
