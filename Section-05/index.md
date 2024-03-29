@@ -4,13 +4,13 @@ description: The natural environment encompasses all living and non-living thing
 
 # Section 5 - The natural world
 
-[sea](sea.md)
-[wave](wave.md)
-[river](river.md)
-[island](island.md)
-[beach](beach.md)
-[sand](sand.md)
-[mountain](mountain.md)
-[forest](forest.md)
-[field](field.md)
-[ground](ground.md)
+- [sea](sea.md)
+- [wave](wave.md)
+- [river](river.md)
+- [island](island.md)
+- [beach](beach.md)
+- [sand](sand.md)
+- [mountain](mountain.md)
+- [forest](forest.md)
+- [field](field.md)
+- [ground](ground.md)
