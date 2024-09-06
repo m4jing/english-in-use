@@ -42,13 +42,13 @@ Complete the sentences with the correct preposition:
 
 ## Note
 
-1.Here are different kinds of table:
+1. Here are different kinds of table:
 
-- kitchen table
-- dinner table
-- side table
-- coffee table
-- dining table
-- folding table
+    - kitchen table
+    - dinner table
+    - side table
+    - coffee table
+    - dining table
+    - folding table
 
-2.You play pool on a *pool table*, and billiards on a *billiard table*.
+2. You play pool on a *pool table*, and billiards on a *billiard table*.

@@ -20,7 +20,7 @@ description: Mirror, a piece of special flat glass that reflects images, so that
 Match the halves:
 
 1. There's a full-length mirror behind.
-2. They say you get 7 years'bad luck
+2. They say you get 7 years' bad luck
 3. There's a large mirror,
 4. She never leaves the house without
 5. I find it difficult to shave
@@ -28,7 +28,7 @@ Match the halves:
 7. Rob was standing in front of a mirror,
 
 - a. when the bathroom mirror is all steamed up
-- b. trying on a new suit,when I last saw him.
+- b. trying on a new suit, when I last saw him.
 - c. looking at herself in the hall mirror.
 - d. if you break a mirror.
 - e. I noticed a small spot on the tip of my nose.
@@ -39,4 +39,4 @@ Match the halves:
 
 Note these types of car mirror:
 
-I adjusted the *side mirrors*, then glanced in the *rear-view mirror* to see if anyone was behind me.
+- I adjusted the *side mirrors*, then glanced in the *rear-view mirror* to see if anyone was behind me.

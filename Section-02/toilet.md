@@ -48,7 +48,7 @@ Note
 
 1. The informal word 'loo' is often used for toilet:
 
-    I'll just go to the loo before the film starts.
+    - I'll just go to the loo before the film starts.
 
 2. In the UK public toilets are sometimes called public conveniences.
 3. In the US, the toilet in your home is the bathroom, and in a public place it is the rest room.
