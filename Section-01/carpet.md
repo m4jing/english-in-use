@@ -5,7 +5,7 @@
 - hoover the carpet: 用吸尘器清扫
 - lay a carpet: 铺设
 - ruin a carpet: 破坏
-- a carpet wears: 低碳磨损了(wear: v. 磨损，消耗，用旧)
+- a carpet wears: 地毯磨损了(wear: v. 磨损，消耗，用旧)
 
 1. They're coming this morning to ...... the new carpet in the living room. (lay)
 2. I ...... the carpet in the living room when I dropped a tin of paint on it. (ruined)

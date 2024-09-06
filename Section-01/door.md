@@ -18,11 +18,11 @@ Complete the sentences with the correct form of the above verbs:
 
 ## Common expressions
 
-hold the door open
-the door leads to the(kitchen)
-enter by the(front)door
-stand outside a door
-There's someone at the door.
+- hold the door open
+- the door leads to the (kitchen)
+- enter by the (front) door
+- stand outside a door
+- There's someone at the door.
 
 1. The burglars entered by
 2. There's someone at the door.

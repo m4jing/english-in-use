@@ -9,7 +9,7 @@
 
 Complete the sentences with the correct form of the above verbs:
 
-1. I was locked out of the house,so I had to ...... a window to get in.
+1. I was locked out of the house, so I had to ...... a window to get in.
 2. I hate ...... the windows. I always pay somebody to do them for me.
 3. It's quite hot in here. Do you mind if I ...... a window?
 4. The windows in the kitchen always ...... up when I'm cooking. It's impossible to see through them.

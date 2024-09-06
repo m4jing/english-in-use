@@ -8,9 +8,9 @@
 
 ### Practice
 
-1. Brian promised that he would ...... his room,but he left it in a mess as usual. (tidy)
+1. Brian promised that he would ...... his room, but he left it in a mess as usual. (tidy)
 2. I used to ...... a room with my sister when I was young. (share)
-3. My aunt has a very large house.She ...... out one of the rooms to a student. (lets)
+3. My aunt has a very large house. She ...... out one of the rooms to a student. (lets)
 
 ## Common expressions
 
