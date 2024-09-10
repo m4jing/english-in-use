@@ -4,6 +4,8 @@ description: Table, a piece of furniture that consists of a flat top supported b
 
 # table
 
+> Reference: [Section-09/table](../Section-09/table.md)
+
 ## Verb + n. (at home)
 
 - sit at a table
@@ -40,15 +42,13 @@ Complete the sentences with the correct preposition:
 2. We'll easily get eight people ...... the dining table for Christmas dinner.
 3. I accidentally knocked over a glass of wine while I was reaching ...... the table to get the salt.
 
-## Note
+## Notes
 
 1. Here are different kinds of table:
-
     - kitchen table
     - dinner table
     - side table
     - coffee table
     - dining table
     - folding table
-
 2. You play pool on a *pool table*, and billiards on a *billiard table*.
