@@ -18,3 +18,4 @@ Learn English in really useful expressions/collocations.
 - [Section 06 - Animals and plants](./Section-06/index.md)
 - [Section 07 - Transport](./Section-07/index.md)
 - [Section 08 - Travel](./Section-08/index.md)
+- [Section 09 - Meals and eating out](./Section-09/index.md)
